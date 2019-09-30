@@ -2,7 +2,7 @@ apply plugin: 'java'
 
 group 'kata'
 version '1.0-SNAPSHOT'
-sourceCompatibility = 11
+sourceCompatibility = 8
 
 repositories {
     mavenCentral()
